@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Welcome to my github repo :)](https://github.com/kislow/kislow/raw/master/bio.gif)
+![Welcome to my github repo :)](https://github.com/kislow/kislow/raw/master/codeHello.gif)
 
 <!--
 **kislow/kislow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
