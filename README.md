@@ -5,7 +5,7 @@
 🐢 Slowmaxxing is the pinnacle of a slow paced life.
 Take your time with the little mundane things and see how much more you will appreciate life and God's creation. Less anxiety, more gratitude.🚶
 
-![Welcome to my github repo :)](https://github.com/kislow/kislow/blob/main/codeHello.gif)
+![Welcome to my github repo](https://github.com/kislow/kislow/blob/main/codeHello.gif)
 
 <!--
 **kislow/kislow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
