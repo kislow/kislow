@@ -7,7 +7,7 @@
 # 
 <p align="center">
  <a>
- <img src="./cka-ckad.png" style="width: 50%; height: 50%">
+ <img src="./k8s-certs.png" style="width: 50%; height: 50%">
  </a>
 </p>
 
